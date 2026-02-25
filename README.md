@@ -1,16 +1,3 @@
-Hey, I'm Adithya
-
-## 🚀 About Me
--  passionate about problem solving
--  Learning Python & Full Stack Development
--  Building cool projects
-  🛠️ Languages & Tools
-- Python
-- HTML
-- CSS
-- Git & GitHub
-
-
 
 # 👋 Hi, I'm Adithya!
 
@@ -18,7 +5,7 @@ Hey, I'm Adithya
 - 🧠 **Currently focused on:** Reinforcement Learning, specifically for intelligent elevator scheduling systems.
 - 🎵 **Building:** A website that recommends music based on facial expressions.
 - ⚡ **Interest:** Problem-solving and building real-world AI applications.
-- 📧 **Reach me:** [your-email@gmail.com](mailto:your-email@gmail.com)
+- 📧 **Reach me:** [adithyatanam76@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
@@ -42,6 +29,6 @@ Hey, I'm Adithya
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adithya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithya-tanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adithya" height="30" width="40" /></a>
 <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Adithya" height="30" width="40" /></a>
 </p>
