@@ -12,4 +12,7 @@ Hey, I'm Adithya
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight)
+## 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adithya-76&color=blue)
+
