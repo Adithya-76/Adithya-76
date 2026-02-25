@@ -10,6 +10,6 @@ Hey, I'm Adithya
 - CSS
 - Git & GitHub
 
-- ## 📊 GitHub Stats
+-## 📊 GitHub Stats
 
-!(https://github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight)
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight)
