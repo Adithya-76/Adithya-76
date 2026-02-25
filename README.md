@@ -12,4 +12,4 @@ Hey, I'm Adithya
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://api.github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight)
