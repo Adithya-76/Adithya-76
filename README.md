@@ -10,9 +10,6 @@ Hey, I'm Adithya
 - CSS
 - Git & GitHub
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adithya-76&color=blue)
 
