@@ -46,4 +46,24 @@
 
 ---
 
+---
+
+## 📈 Contribution Graph
+
+![Adithya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithya-76&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Adithya-76&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📦 Most Used Languages (Detailed)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-76&layout=pie&theme=tokyonight&hide_border=true)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Adithya-76&color=blue&style=flat-square)
