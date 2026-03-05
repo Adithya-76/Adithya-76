@@ -44,7 +44,7 @@
 
 ## 📈 Contribution Graph
 
-![Adithya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithya-76&theme=tokyo-night&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adithya-76)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
