@@ -9,7 +9,7 @@
 
 ---
 ## GitHub Streaks
-![Stats](https://github-stats-alpha.vercel.app/api?username=Adithya-76&cc=000&tc=fff&ic=fff&bc=000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adithya-76&theme=highcontrast)](https://git.io/streak-stats)
 ---
 
 ## 🔗 Connect with me
