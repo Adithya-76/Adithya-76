@@ -9,7 +9,7 @@
 
 ---
 ## GitHub Streaks
-![Stats](https://github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adithya-76&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🔗 Connect with me
