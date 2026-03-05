@@ -8,7 +8,8 @@
 - 📫 Reach me through: [adithyatanam76@gmail.com](mailto:adithyatanam76@gmail.com)
 
 ---
-
+## GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adithya-76&theme=dark)](https://git.io/streak-stats)
 ## 📊 GitHub Stats
 
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithya-76&show_icons=true&theme=tokyonight&hide_border=true)
