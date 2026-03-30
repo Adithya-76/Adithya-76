@@ -2,7 +2,6 @@
 
 - 🌐 I'm interested in **Web Development**
 - 🤖 I'm passionate about **Machine Learning & AI**
-- 🧠 I love **Problem Solving & DSA**
 - 🌱 I'm currently growing my skills in **Full Stack Development & ML**
 - 🤝 I'm looking to collaborate on projects that have **real-world impact**
 - 📫 Reach me through: [adithyatanam76@gmail.com](mailto:adithyatanam76@gmail.com)
