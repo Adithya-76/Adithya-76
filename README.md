@@ -32,9 +32,9 @@
 
 ## 🧩 What I'm Working On
 
-- 🔭 Exploring **Machine Learning** projects
-- 💻 Building **Web Apps** with modern technologies
-- 📚 Sharpening **DSA** skills on LeetCode / GeeksforGeeks
+- Exploring **Machine Learning** projects
+- Building **Web Apps** with modern technologies
+- Sharpening **DSA** skills on LeetCode / GeeksforGeeks
 
 ---
 
